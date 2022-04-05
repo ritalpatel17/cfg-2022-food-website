@@ -1,4 +1,5 @@
- body onLoad="redirect()"
+  
+  body onLoad="redirect()"
 
 script language="JavaScript"
 
