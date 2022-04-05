@@ -1,0 +1,20 @@
+.title{
+	padding: 10px; padding-left: 100px;
+	font size: 15%;
+	background-color: rgb(225, 225, 234);
+	margin-top: 10px;
+ 
+
+}
+
+.col{
+	float: right;
+	margin-top: 50px;
+
+
+	
+}
+
+.list li{
+	font size: 100px;
+}
